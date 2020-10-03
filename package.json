@@ -1,0 +1,24 @@
+{
+  "name": "medicaorepositoriosgraphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/werikgpaula/medicaoRepositoriosGraphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/werikgpaula/medicaoRepositoriosGraphql/issues"
+  },
+  "homepage": "https://github.com/werikgpaula/medicaoRepositoriosGraphql#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json2csv": "^5.0.1",
+    "node-fetch": "^2.6.1"
+  }
+}
